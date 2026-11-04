@@ -1,2 +1,2 @@
 # portfolio-diego-marques-de-carvalho
-Portfólio de projetos de Diego Marques de Carvalho
+Construção dos diretórios do portfólio
