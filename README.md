@@ -11,7 +11,7 @@
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitoryagrazy11@gmail.com)
 
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](file:///C:/Users/Vitoria/Downloads/Curriculo_Vitorya_Grazyeli_ADS_2026%20(1).pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Vitoryagrazx/portfolio-vitorya-grazyeli-rodrigues/blob/main/Curriculo_Vitorya_Grazyeli_ADS_2026%20(1).pdf?utm_source=chatgpt.com)
 
 ---
 
