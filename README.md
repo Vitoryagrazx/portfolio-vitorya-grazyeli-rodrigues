@@ -63,7 +63,7 @@ Utilizo ferramentas de Inteligência Artificial como apoio ao aprendizado, à pr
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **AT1 - Site Básico em HTML5** | Criação de site com 5 páginas utilizando HTML5 e navegação entre páginas. | [Ver Projeto](https://vitoryagrazx.github.io/AT1-Linkando-paginas-em-HTML/) |
-| **AT2 - Deploy de Site** | Publicação de site utilizando GitHub Pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
+| **AT2 - Deploy de Site** | Publicação de site utilizando GitHub Pages. | [Ver Projeto](http://docs.google.com/spreadsheets/d/1HwFLm0HvHUjBGsP7-QhI3kE0MluRMR9teXAF7aNE06s/edit) |
 | **AT3 - Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](https://vitoryagrazx.github.io/AT3--Calculadora-de-IMC/) |
 | **AT4 - Site com Bootstrap** | Desenvolvimento de site com múltiplas páginas utilizando Bootstrap 5. | [Ver Projeto](https://vitoryagrazx.github.io/AT4-Desenvolvimento-Site-Multipagina-Bootstrap-5/) |
 | **AT5 - Desenvolvimento com IA** | Desenvolvimento Front-End com apoio de Inteligência Artificial. | [Ver Projeto](https://vitoryagrazx.github.io/AT5---Front-End-e-Copilotagem-com-IA/) |
