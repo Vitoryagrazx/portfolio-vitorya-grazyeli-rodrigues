@@ -56,10 +56,12 @@ Apenas a documentação deste README contou com o apoio do ChatGPT (OpenAI), uti
 
 ## 💻 Deploy do Projeto
 
-A atividade utiliza o **GitHub Pages** como plataforma de hospedagem.
+O site OFFSIZE foi publicado utilizando o GitHub Pages, permitindo que os usuários acessem suas páginas diretamente pelo navegador.
 
-**Link do site:** A adicionar após a confirmação do endereço publicado.
+A publicação possibilitou colocar em prática os conhecimentos relacionados à hospedagem de sites estáticos, organização de arquivos e disponibilização de projetos na internet.
 
----
+Site publicado: Acessar OFFSIZE
+
+Código-fonte: Visualizar Repositório
 
 [⬅ Voltar ao Portfólio Principal](../README.md)
