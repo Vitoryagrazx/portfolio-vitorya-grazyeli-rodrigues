@@ -60,5 +60,3 @@ O endereço de demonstração será adicionado após a confirmação da publica�
 ---
 
 [⬅ Voltar ao Portfólio Principal](../README.md)
-a# portfolio-diego-marques-de-carvalho
-Portfólio de projetos de Diego Marques de Carvalho
