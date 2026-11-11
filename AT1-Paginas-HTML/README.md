@@ -51,12 +51,12 @@ O uso da ferramenta teve caráter de suporte educacional, contribuindo para a co
 
 ---
 
-## 💻 Deploy do Projeto
+## 📂 Código-Fonte do Projeto
 
-O projeto pode ser publicado utilizando GitHub Pages.
+Esta atividade teve como foco a criação e a organização de cinco páginas HTML interligadas, utilizando links para permitir a navegação entre diferentes seções do site OFFSIZE.
 
-O endereço de demonstração será adicionado após a confirmação da publicação.
+O código-fonte está disponível para consulta no GitHub, incluindo os arquivos HTML, CSS e os recursos visuais utilizados.
 
----
+Visualizar Código-Fonte
 
 [⬅ Voltar ao Portfólio Principal](../README.md)
